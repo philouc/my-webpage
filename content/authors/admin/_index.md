@@ -14,13 +14,14 @@ organizations:
   url: https://www.cea.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include inverse problems in MRI, signal processing for functional brain imaging data, machine and deep learning, cognitive and clinical neuroscience.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inverse problems in MRI
+- Machine/Deep learning
+- Signal processing
+- Neuroscience
 
 # Education to show in About widget
 education:
