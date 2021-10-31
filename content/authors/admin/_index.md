@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Philippe Ciuciu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: CEA (French Alternative Energies and Atomic Energy Commission)
+  url: https://www.cea.fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include inverse problems in MRI (acquisition and image reconstruction), signal processing for functional brain imaging data (fMRI, M/EEG), machine and deep learning, cognitive and clinical neuroscience.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inverse problems in MRI
+- Machine/Deep learning
+- Signal processing
+- Neuroscience
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Habilitation Degree in biomedical imaging
+    institution: University of Paris-Sud
     year: 2008
+  - course: PhD in Signal Processing
+    institution: University of Paris-Sud
+    year: 2000
+  - course: MSc in Signal Processing and Automatic Control
+    institution: University of Paris-Sud
+    year: 1996
+  - course: MEng in Computer Science and Electrical Engineering
+    institution: ESIEA Paris
+    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,33 +49,32 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Philippe_Ciuciu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=X-w36z8AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/philouc
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/philippe-ciuciu-7747a418/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "philippe.ciuciu@cea.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Ciuciu is a CEA Research Director at NeuroSpin (CEA), the largest ultra-high field MRI center in France dedicated to cognitive and clinical neuroscience research. He has a joint appointment with Inria, the French institute of computer Science and automatic control where he has led, since 2018, the Compressed Sensing team in the Inria-CEA Parietal unit located at NeuroSpin. In Jan. 2022, due to his expertise in neuroimaging techniques, brain data analysis, and machine learning, he will co-lead the new joint Inria-CEA unit MIND, (Models and Inference for Neuroimaging Data), a cutting edge research unit comprised of 40 researchers and staff.
+His inter-disciplinary research interests range from methodological developments in accelerated MRI to cutting-edge signal processing tools for the analysis of functional brain data (fMRI, M/EEG) with applications in cognitive and clinical neuroscience (neurodevelopment and neurodegeneration).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
