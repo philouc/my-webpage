@@ -63,19 +63,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "philippe.ciuciu@cea.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Ciuciu is a CEA Research Director at NeuroSpin (CEA), the largest ultra-high field MRI center in France dedicated to cognitive and clinical neuroscience research. He has a joint appointment with Inria, the French institute of computer Science and automatic control where he has led, since 2018, the Compressed Sensing team in the Inria-CEA Parietal unit located at NeuroSpin. In Jan. 2022, due to his expertise in neuroimaging techniques, brain data analysis, and machine learning, he will co-lead the new joint Inria-CEA unit MIND, (Models and Inference for Neuroimaging Data), a cutting edge research unit comprised of 40 researchers and staff.
+His inter-disciplinary research interests range from methodological developments in accelerated MRI to cutting-edge signal processing tools for the analysis of functional brain data (fMRI, M/EEG) with applications in cognitive and clinical neuroscience (neurodevelopment and neurodegeneration).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
