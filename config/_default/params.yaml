@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-  link: https://twitter.com/Philippe_Ciuciu
+  link: 'https://twitter.com/Philippe_Ciuciu'
   - icon: skype
     icon_pack: fab
     name: Skype Me
@@ -60,7 +60,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Nov 1, 2021'
+date_format: 'Nov 2, 2021'
 time_format: '3:04 PM'
 address_format: en-us
 
