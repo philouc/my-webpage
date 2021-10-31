@@ -42,10 +42,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Philippe_Ciuciu'
-  - icon: skype
+  - icon: linkedin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: DM Me
+    link: 'https://www.linkedin.com/in/philippe-ciuciu-7747a418/'
 
 # Site header
 
