@@ -26,15 +26,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Habilitation Degree in biomedical imaging
+    institution: University of Paris-Sud
     year: 2008
+  - course: PhD in Signal Processing
+    institution: University of Paris-Sud
+    year: 2000
+  - course: MSc in Signal Processing and Automatic Control
+    institution: University of Paris-Sud
+    year: 1996
+  - course: MEng in Computer Science and Electrical Engineering
+    institution: ESIEA Paris
+    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
