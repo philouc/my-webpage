@@ -60,7 +60,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
 - sparkling
-- xpdnet
 ---
 
 {{% callout note %}}
