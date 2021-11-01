@@ -16,10 +16,6 @@ subtitle: Members of the CS-MRI team
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Nov 2021
 
-widget: people
-headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
 
 content:
   # Choose which groups/teams of users to display.
