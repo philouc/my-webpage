@@ -42,8 +42,8 @@ links:
   name: Philippe Ciuciu
   url: https://twitter.com/Philippe_Ciuciu
 url_code: ""
-url_pdf: ""
-url_slides: "21.10_ciuciu_marseille.pdf"
+url_pdf: "upload/21.10_ciuciu_marseille.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
