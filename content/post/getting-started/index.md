@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: SPARKLING trajectories for 3D accelerated MRI
+subtitle: We have recently extended the 2D SPARKLING algorithm to 3D T2* and SWI high-resolution isotropic (600µm) imaging
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: We have recently proposed a new optimization algorithm called SPARKLING (Spreading Projection Algorithm for Rapid K-space sampLING) to design efficient compressive sampling patterns for magnetic resonance imaging (MRI). This method has a few advantages over conventional non-Cartesian trajectories such as radial lines or spirals. First, it allows the sampling of k-space along any arbitrary density while the other two are restricted to radial densities. Second it optimizes the gradient waveforms for a given readout time. Here, we introduce an extension of the SPARKLING method for 3D imaging by considering both stacks-of-SPARKLING and fully 3D SPARKLING trajectories. Our method reaches an isotropic resolution of 600 μm in just 45 seconds for T2∗-weighted ex vivo brain imaging at 7 Tesla over a field-of-view of 200 × 200 × 140 mm3. Preliminary in vivo human brain data shows that a stack-of-SPARKLING is less subject to off-resonance artifacts than a stack-of-spirals.
 
 # Link this post with a project
-projects: []
+projects: ["sparkling"]
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-06-01T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-06-30T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,22 +23,21 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: C Lazarus'
   focal_point: ""
   placement: 2
   preview_only: false
 
 authors:
 - admin
-- 吳恩達
+- chaithya_gr
 
 tags:
-- Academic
-- 开源
+- Research
+- MRI
 
 categories:
 - Demo
-- 教程
 ---
 
 ## Overview
