@@ -1,28 +1,30 @@
 ---
-title: Example Talk
+title: "Accelerated brain MR Imaging: From shorter data acquisition to faster image reconstruction"
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 2nd annual meeting of the French Ultra-high field Network (FUN)
+event_url: https://www.francelifeimaging.fr/reseaux-connexes/fun/
 
-location: Wowchemy HQ
+location: CHU La Timone
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 264 Rue Saint-Pierre
+  city: Marseille Cedex 5
+  region: 
+  postcode: '13385'
+  country: France
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: I presented in this talk the recent progresses of my team related to SPARKLING for shorter scan times in MRI and XPDNet for improved image reconstruction using our deep neural nets.
+abstract: "Magnetic Resonance Imaging is a widely used neuroimaging technique as it can probe brain tissues, their structure and provide insights on the functional organization as well as the layout of brain vessels. However, MRI relies on an inherently slow imaging process. 
+Reducing acquisition time has been a major challenge in high-resolution MRI and has been successfully addressed by Compressed Sensing (CS) theory. Nevertheless, most of the Fourier encoding schemes under-sample existing k-space trajectories which does not adequately encode all the information necessary. Recently, my team has addressed this issue by proposing the Spreading Projection Algorithm for Rapid K-space sampLING (SPARKLING) for 2D/3D non-Cartesian T2* and susceptibility weighted imaging at 3 and 7Tesla (T). In the first half of my presentation, I will present these advancements, interesting clinical applications and how we have adapted this approach to address high-resolution functional MRI at 7T.
+However, CS approaches suffer from a slow image reconstruction process. To counteract this delay and improve image quality, deep learning has been used since 2016. In the second half of this talk, I will expose our own deep-learning architecture, called XPDNet (Primal Dual Network where X plays the role of a magic card), that has been ranked second in the 2020 brain fastMRI challenge (1.5 and 3T data).  I will illustrate XPDNet’s transfer learning capacity on 7T NeuroSpin T2 images. Lastly, I will share how we have further improved this approach to handle 3D non-Cartesian imaging settings associated with the SPARKLING encoding scheme."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
+date: "2021-10-21T08:40:00Z"
 date_end: "2030-06-01T15:00:00Z"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-11-01T08:00:00Z"
 
 authors: []
 tags: []
@@ -37,11 +39,11 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Philippe Ciuciu
+  url: https://twitter.com/Philippe_Ciuciu
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "21.10_ciuciu_marseille.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
