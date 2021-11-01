@@ -6,8 +6,6 @@ widget: people
 # This file represents a page section.
 headless: true
 
-active: true
-
 # Order that this section appears on the page.
 weight: 40
 
@@ -38,3 +36,4 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+---
